@@ -4,7 +4,7 @@ local w = library:CreateWindow("placementt#2474")
 
 local b = w:CreateFolder("End#5424")
 
-b:Label("Lagger",{
+b:Label("My Dick For All",{
     TextSize = 25;
     TextColor = Color3.fromRGB(255,255,255);
     BgColor = Color3.fromRGB(69,69,69);
